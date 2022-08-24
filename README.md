@@ -10,6 +10,9 @@
 
 **BuidlGuidl**: [https://buidlguidl.com/builders/0xB91621B0106C542Faf1cFeB4c316FEc48096B129](https://buidlguidl.com/builders/0xB91621B0106C542Faf1cFeB4c316FEc48096B129)
 
+**Contract**: [https://rinkeby.etherscan.io/address/0x4078A9354d8942e6C943Dd1bB441B5d96F1b00E4](https://rinkeby.etherscan.io/address/0x4078A9354d8942e6C943Dd1bB441B5d96F1b00E4)
+
+
 This is a solution to challenge 4 of [SpeedrunEth](https://speedrunethereum.com/). It is a minimal decentralized exchange that allows swapping between two assets; Ethereum and Balloon($BAL).
 
 ⛳️The challenge involves writing a smart contract that allows a deployer to deposit the initial liquidity necessary for swapping between the pair. This liquidity makes up the reserve of the DEX. Whenever a user swaps ETH for tokens, the ETH is added to the reserve and Tokens are removed and sent to the user, and vice versa.
