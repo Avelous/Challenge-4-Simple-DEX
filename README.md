@@ -4,9 +4,11 @@
 ### 🚩 Challenge 4: Minimum Viable Exchange
 
 
-**Live Site**: https://wealthy-home.surge.sh/
+**Live Site**: [https://wealthy-home.surge.sh/](https://wealthy-home.surge.sh/)
+
 **Chain**: Rinkeby Test Network
-**BuidlGuidl**: https://buidlguidl.com/builders/0xB91621B0106C542Faf1cFeB4c316FEc48096B129
+
+**BuidlGuidl**: [https://buidlguidl.com/builders/0xB91621B0106C542Faf1cFeB4c316FEc48096B129](https://buidlguidl.com/builders/0xB91621B0106C542Faf1cFeB4c316FEc48096B129)
 
 This is a solution to challenge 4 of [SpeedrunEth](https://speedrunethereum.com/). It is a minimal decentralized exchange that allows swapping between two assets; Ethereum and Balloon($BAL).
 
